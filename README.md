@@ -1,2 +1,3 @@
 # App
-no se k bamo aser
+naxo-:no se k bamo aser
+io-:una bateriaxd
