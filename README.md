@@ -1,3 +1,3 @@
-# Organizador de Torneos
+# Organizador de Torneos Joia
 
 xd
