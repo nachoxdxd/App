@@ -47,66 +47,146 @@ public class Principal extends javax.swing.JFrame {
         lbl4_f3 = new javax.swing.JLabel();
         deporte_txt = new javax.swing.JTextField();
         filtro = new javax.swing.ButtonGroup();
-        torneo = new javax.swing.JFrame();
-        xdxd = new javax.swing.JLabel();
-        torneo_lbl = new javax.swing.JLabel();
-        salir_f3 = new javax.swing.JButton();
-        volver_f3 = new javax.swing.JButton();
+        torneo16_frame = new javax.swing.JFrame();
+        e1_t16 = new javax.swing.JTextField();
+        e2_t16 = new javax.swing.JTextField();
+        e3_t16 = new javax.swing.JTextField();
+        e4_t16 = new javax.swing.JTextField();
+        e5_t16 = new javax.swing.JTextField();
+        e6_t16 = new javax.swing.JTextField();
+        e7_t16 = new javax.swing.JTextField();
+        e8_t16 = new javax.swing.JTextField();
+        octavo_a = new javax.swing.JTextField();
+        octavo_b = new javax.swing.JTextField();
+        octavo_c = new javax.swing.JTextField();
+        octavo_d = new javax.swing.JTextField();
+        semi_a_t16 = new javax.swing.JTextField();
+        final1_t16 = new javax.swing.JTextField();
+        final2_t16 = new javax.swing.JTextField();
+        final_lbl_t16 = new javax.swing.JLabel();
+        tyc_2_t16 = new javax.swing.JTextField();
+        tyc_1_t16 = new javax.swing.JTextField();
+        tyc_lbl_t16 = new javax.swing.JLabel();
+        semi_b_t16 = new javax.swing.JTextField();
+        b8c_t16 = new javax.swing.JButton();
+        b8a_t16 = new javax.swing.JButton();
+        re1_t16 = new javax.swing.JTextField();
+        re3_t16 = new javax.swing.JTextField();
+        re4_t16 = new javax.swing.JTextField();
+        re2_t16 = new javax.swing.JTextField();
+        re5_t16 = new javax.swing.JTextField();
+        re6_t16 = new javax.swing.JTextField();
+        b8b_t16 = new javax.swing.JButton();
+        re7_t16 = new javax.swing.JTextField();
+        re8_t16 = new javax.swing.JTextField();
+        b8d_t16 = new javax.swing.JButton();
+        r_8a_16 = new javax.swing.JTextField();
+        r_8b_16 = new javax.swing.JTextField();
+        r_8d_16 = new javax.swing.JTextField();
+        r_8c_16 = new javax.swing.JTextField();
+        b_4b_16 = new javax.swing.JButton();
+        b_4a_16 = new javax.swing.JButton();
+        bsemi_a_t16 = new javax.swing.JButton();
+        r_semib_t16 = new javax.swing.JTextField();
+        r_semia_t16 = new javax.swing.JTextField();
+        r_tyc_2_t16 = new javax.swing.JTextField();
+        r_final2_t16 = new javax.swing.JTextField();
+        b_tyc_t16 = new javax.swing.JButton();
+        e9_t16 = new javax.swing.JTextField();
+        e10_t16 = new javax.swing.JTextField();
+        e11_t16 = new javax.swing.JTextField();
+        e12_t16 = new javax.swing.JTextField();
+        e13_t16 = new javax.swing.JTextField();
+        e14_t16 = new javax.swing.JTextField();
+        e15_t16 = new javax.swing.JTextField();
+        e16_t16 = new javax.swing.JTextField();
+        octavo_e = new javax.swing.JTextField();
+        octavo_f = new javax.swing.JTextField();
+        octavo_g = new javax.swing.JTextField();
+        octavo_h = new javax.swing.JTextField();
+        semi_c_t16 = new javax.swing.JTextField();
+        semi_d_t16 = new javax.swing.JTextField();
+        b8g_t16 = new javax.swing.JButton();
+        b8e_t16 = new javax.swing.JButton();
+        re9_t16 = new javax.swing.JTextField();
+        re11_t16 = new javax.swing.JTextField();
+        re12_t16 = new javax.swing.JTextField();
+        re10_t16 = new javax.swing.JTextField();
+        re13_t16 = new javax.swing.JTextField();
+        re14_t16 = new javax.swing.JTextField();
+        b8f_t16 = new javax.swing.JButton();
+        re15_t16 = new javax.swing.JTextField();
+        re16_t16 = new javax.swing.JTextField();
+        b8h_t16 = new javax.swing.JButton();
+        r_8e_16 = new javax.swing.JTextField();
+        r_semic_t16 = new javax.swing.JTextField();
+        r_8h_16 = new javax.swing.JTextField();
+        b_4c_16 = new javax.swing.JButton();
+        b_final_t16 = new javax.swing.JButton();
+        r_8g_16 = new javax.swing.JTextField();
+        r_8f_16 = new javax.swing.JTextField();
+        r_semid_t16 = new javax.swing.JTextField();
+        torneo_lbl1 = new javax.swing.JLabel();
+        bsemi_b_t16 = new javax.swing.JButton();
+        b_4d_16 = new javax.swing.JButton();
+        r_final1_t17 = new javax.swing.JTextField();
+        r_tyc_1_t16 = new javax.swing.JTextField();
+        volver_t16 = new javax.swing.JButton();
+        salir_t16 = new javax.swing.JButton();
+        jButton5 = new javax.swing.JButton();
+        jTextField74 = new javax.swing.JTextField();
         jFrame1 = new javax.swing.JFrame();
-        e1 = new javax.swing.JTextField();
-        e2 = new javax.swing.JTextField();
-        e4 = new javax.swing.JTextField();
-        jTextField4 = new javax.swing.JTextField();
-        jTextField5 = new javax.swing.JTextField();
-        jTextField6 = new javax.swing.JTextField();
-        jTextField7 = new javax.swing.JTextField();
-        jTextField8 = new javax.swing.JTextField();
-        jTextField9 = new javax.swing.JTextField();
-        jTextField10 = new javax.swing.JTextField();
-        jTextField11 = new javax.swing.JTextField();
-        jTextField12 = new javax.swing.JTextField();
-        jTextField13 = new javax.swing.JTextField();
-        jTextField14 = new javax.swing.JTextField();
-        jTextField15 = new javax.swing.JTextField();
-        jTextField16 = new javax.swing.JTextField();
-        jTextField17 = new javax.swing.JTextField();
-        jTextField18 = new javax.swing.JTextField();
-        jTextField19 = new javax.swing.JTextField();
-        jTextField20 = new javax.swing.JTextField();
-        jTextField21 = new javax.swing.JTextField();
-        jTextField22 = new javax.swing.JTextField();
-        jTextField23 = new javax.swing.JTextField();
-        jTextField25 = new javax.swing.JTextField();
-        jTextField26 = new javax.swing.JTextField();
-        jTextField27 = new javax.swing.JTextField();
-        jTextField28 = new javax.swing.JTextField();
-        jTextField29 = new javax.swing.JTextField();
-        jTextField30 = new javax.swing.JTextField();
         jLabel1 = new javax.swing.JLabel();
-        jTextField31 = new javax.swing.JTextField();
-        jTextField32 = new javax.swing.JTextField();
+        n1_16 = new javax.swing.JTextField();
+        n2_16 = new javax.swing.JTextField();
+        n3_16 = new javax.swing.JTextField();
+        n4_16 = new javax.swing.JTextField();
+        n5_16 = new javax.swing.JTextField();
+        n6_16 = new javax.swing.JTextField();
+        n7_16 = new javax.swing.JTextField();
+        n8_16 = new javax.swing.JTextField();
+        aceptar_n16 = new javax.swing.JButton();
+        lbl_nombres16 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
+        jLabel20 = new javax.swing.JLabel();
+        jLabel21 = new javax.swing.JLabel();
+        jLabel22 = new javax.swing.JLabel();
+        jLabel23 = new javax.swing.JLabel();
+        jLabel24 = new javax.swing.JLabel();
+        jLabel25 = new javax.swing.JLabel();
+        volver_n16 = new javax.swing.JButton();
+        salir_n16 = new javax.swing.JButton();
         jLabel2 = new javax.swing.JLabel();
-        jTextField33 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
-        jTextField1 = new javax.swing.JTextField();
-        jTextField2 = new javax.swing.JTextField();
-        jTextField3 = new javax.swing.JTextField();
-        jTextField24 = new javax.swing.JTextField();
-        jTextField34 = new javax.swing.JTextField();
-        jTextField35 = new javax.swing.JTextField();
-        jButton3 = new javax.swing.JButton();
-        jTextField36 = new javax.swing.JTextField();
-        jTextField37 = new javax.swing.JTextField();
-        jButton4 = new javax.swing.JButton();
-        jTextField38 = new javax.swing.JTextField();
-        jTextField39 = new javax.swing.JTextField();
+        jLabel3 = new javax.swing.JLabel();
+        n1_17 = new javax.swing.JTextField();
+        n2_17 = new javax.swing.JTextField();
+        n3_17 = new javax.swing.JTextField();
+        n4_17 = new javax.swing.JTextField();
+        n5_17 = new javax.swing.JTextField();
+        n6_17 = new javax.swing.JTextField();
+        n7_17 = new javax.swing.JTextField();
+        n8_17 = new javax.swing.JTextField();
+        jLabel34 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
+        jLabel36 = new javax.swing.JLabel();
+        jLabel37 = new javax.swing.JLabel();
+        jLabel38 = new javax.swing.JLabel();
+        jLabel39 = new javax.swing.JLabel();
+        jLabel40 = new javax.swing.JLabel();
+        jLabel8 = new javax.swing.JLabel();
+        jTextField8 = new javax.swing.JTextField();
+        jButton9 = new javax.swing.JButton();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        jTextPane1 = new javax.swing.JTextPane();
         titulo_lbl = new javax.swing.JLabel();
         salir_btn = new javax.swing.JButton();
         nuevo_btn = new javax.swing.JButton();
 
+        nuevo_frame.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         nuevo_frame.setLocationByPlatform(true);
-        nuevo_frame.setMinimumSize(new java.awt.Dimension(300, 300));
+        nuevo_frame.setMaximumSize(new java.awt.Dimension(292, 400));
+        nuevo_frame.setMinimumSize(new java.awt.Dimension(292, 400));
+        nuevo_frame.setPreferredSize(new java.awt.Dimension(292, 376));
 
         qant_box.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "2", "4", "8", "16" }));
         qant_box.setMaximumSize(new java.awt.Dimension(300, 300));
@@ -190,7 +270,7 @@ public class Principal extends javax.swing.JFrame {
                 .addContainerGap()
                 .addComponent(indiv_rbttn, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(grups_rbttn, javax.swing.GroupLayout.DEFAULT_SIZE, 125, Short.MAX_VALUE)
+                .addComponent(grups_rbttn, javax.swing.GroupLayout.DEFAULT_SIZE, 131, Short.MAX_VALUE)
                 .addContainerGap())
         );
         jPanel1Layout.setVerticalGroup(
@@ -272,7 +352,7 @@ public class Principal extends javax.swing.JFrame {
                 .addComponent(lbl4_f3)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(deporte_txt, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 19, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 27, Short.MAX_VALUE)
                 .addComponent(comenzar_btn)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(nuevo_frameLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
@@ -283,630 +363,680 @@ public class Principal extends javax.swing.JFrame {
 
         qant_box.getAccessibleContext().setAccessibleName("");
 
-        torneo.setMinimumSize(new java.awt.Dimension(700, 300));
+        torneo16_frame.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        torneo16_frame.setLocationByPlatform(true);
+        torneo16_frame.setMaximumSize(new java.awt.Dimension(1450, 350));
+        torneo16_frame.setMinimumSize(new java.awt.Dimension(1450, 350));
+        torneo16_frame.setPreferredSize(new java.awt.Dimension(1450, 350));
+        torneo16_frame.getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        xdxd.setBackground(new java.awt.Color(230, 146, 61));
-        xdxd.setFont(new java.awt.Font("Liberation Sans", 0, 24)); // NOI18N
-        xdxd.setForeground(new java.awt.Color(231, 12, 12));
-        xdxd.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        xdxd.setText("proximamente xd");
-
-        torneo_lbl.setFont(new java.awt.Font("Noto Sans CJK JP Bold", 0, 24)); // NOI18N
-        torneo_lbl.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        torneo_lbl.setText("-_-");
-
-        salir_f3.setText("Salir");
-        salir_f3.addActionListener(new java.awt.event.ActionListener() {
+        e1_t16.setEditable(false);
+        e1_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e1_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e1_t16.setText("Equipo n° 1");
+        e1_t16.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                salir_f3ActionPerformed(evt);
+                e1_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e1_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
+
+        e2_t16.setEditable(false);
+        e2_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e2_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e2_t16.setText("Equipo n° 2");
+        e2_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e2_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 40, -1, -1));
+
+        e3_t16.setEditable(false);
+        e3_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e3_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e3_t16.setText("Equipo n° 3");
+        e3_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e3_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e3_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 80, -1, -1));
+
+        e4_t16.setEditable(false);
+        e4_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e4_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e4_t16.setText("Equipo n° 4");
+        e4_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e4_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e4_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 110, -1, -1));
+
+        e5_t16.setEditable(false);
+        e5_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e5_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e5_t16.setText("Equipo n° 5");
+        e5_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e5_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e5_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 150, -1, -1));
+
+        e6_t16.setEditable(false);
+        e6_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e6_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e6_t16.setText("Equipo n° 6");
+        e6_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e6_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e6_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 180, -1, -1));
+
+        e7_t16.setEditable(false);
+        e7_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e7_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e7_t16.setText("Equipo n° 7");
+        e7_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e7_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e7_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 220, -1, -1));
+
+        e8_t16.setEditable(false);
+        e8_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e8_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e8_t16.setText("Equipo n° 8");
+        e8_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e8_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e8_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 250, -1, -1));
+
+        octavo_a.setEditable(false);
+        octavo_a.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_a.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_a.setText("Ganador 8° a");
+        octavo_a.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_aActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_a, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 20, -1, -1));
+
+        octavo_b.setEditable(false);
+        octavo_b.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_b.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_b.setText("Ganador 8° b");
+        octavo_b.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_bActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_b, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 90, -1, -1));
+
+        octavo_c.setEditable(false);
+        octavo_c.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_c.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_c.setText("Ganador 8° c");
+        octavo_c.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_cActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_c, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 160, -1, -1));
+
+        octavo_d.setEditable(false);
+        octavo_d.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_d.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_d.setText("Ganador 8° d");
+        octavo_d.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_dActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_d, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 230, -1, -1));
+
+        semi_a_t16.setEditable(false);
+        semi_a_t16.setBackground(new java.awt.Color(242, 240, 240));
+        semi_a_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        semi_a_t16.setText("Ganador 4° a");
+        semi_a_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                semi_a_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(semi_a_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 60, -1, -1));
+
+        final1_t16.setEditable(false);
+        final1_t16.setBackground(new java.awt.Color(242, 240, 240));
+        final1_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        final1_t16.setText("Finalista 1");
+        final1_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                final1_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(final1_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(520, 140, 103, -1));
+
+        final2_t16.setEditable(false);
+        final2_t16.setBackground(new java.awt.Color(242, 240, 240));
+        final2_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        final2_t16.setText("Finalista 2");
+        final2_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                final2_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(final2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 140, 103, -1));
+
+        final_lbl_t16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        final_lbl_t16.setText("FINAL");
+        torneo16_frame.getContentPane().add(final_lbl_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 110, 110, -1));
+
+        tyc_2_t16.setEditable(false);
+        tyc_2_t16.setBackground(new java.awt.Color(242, 240, 240));
+        tyc_2_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        tyc_2_t16.setText("Perdedor semi B");
+        tyc_2_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                tyc_2_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(tyc_2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 240, -1, -1));
+
+        tyc_1_t16.setEditable(false);
+        tyc_1_t16.setBackground(new java.awt.Color(242, 240, 240));
+        tyc_1_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        tyc_1_t16.setText("Perdedor semi A");
+        tyc_1_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                tyc_1_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(tyc_1_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 240, -1, -1));
+
+        tyc_lbl_t16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        tyc_lbl_t16.setText("3er y 4to");
+        torneo16_frame.getContentPane().add(tyc_lbl_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 210, 110, -1));
+
+        semi_b_t16.setEditable(false);
+        semi_b_t16.setBackground(new java.awt.Color(242, 240, 240));
+        semi_b_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        semi_b_t16.setText("Ganador 4° b");
+        semi_b_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                semi_b_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(semi_b_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 200, -1, -1));
+
+        b8c_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8c_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 160, 50, -1));
+
+        b8a_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8a_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 20, 50, -1));
+        torneo16_frame.getContentPane().add(re1_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 10, 30, -1));
+        torneo16_frame.getContentPane().add(re3_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 80, 30, -1));
+        torneo16_frame.getContentPane().add(re4_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 110, 30, -1));
+        torneo16_frame.getContentPane().add(re2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 40, 30, -1));
+        torneo16_frame.getContentPane().add(re5_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 150, 30, -1));
+        torneo16_frame.getContentPane().add(re6_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 180, 30, -1));
+
+        b8b_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8b_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 90, 50, -1));
+        torneo16_frame.getContentPane().add(re7_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 220, 30, -1));
+        torneo16_frame.getContentPane().add(re8_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 250, 30, -1));
+
+        b8d_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8d_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 230, 50, -1));
+
+        r_8a_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8a_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8a_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 20, 30, -1));
+
+        r_8b_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8b_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8b_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 90, 30, -1));
+
+        r_8d_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8d_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8d_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 230, 30, -1));
+
+        r_8c_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8c_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8c_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 160, 30, -1));
+
+        b_4b_16.setText("=");
+        torneo16_frame.getContentPane().add(b_4b_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 200, -1, -1));
+
+        b_4a_16.setText("=");
+        torneo16_frame.getContentPane().add(b_4a_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 60, -1, -1));
+
+        bsemi_a_t16.setText("=");
+        torneo16_frame.getContentPane().add(bsemi_a_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 140, -1, -1));
+
+        r_semib_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_semib_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_semib_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 200, 30, -1));
+
+        r_semia_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_semia_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_semia_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 60, 30, -1));
+
+        r_tyc_2_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_tyc_2_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_tyc_2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 240, 30, -1));
+
+        r_final2_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_final2_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_final2_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 140, 30, -1));
+
+        b_tyc_t16.setText("=");
+        torneo16_frame.getContentPane().add(b_tyc_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 240, 50, -1));
+
+        e9_t16.setEditable(false);
+        e9_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e9_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e9_t16.setText("Equipo n° 9");
+        e9_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e9_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e9_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 10, -1, -1));
+
+        e10_t16.setEditable(false);
+        e10_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e10_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e10_t16.setText("Equipo n 10");
+        e10_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e10_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e10_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 40, -1, -1));
+
+        e11_t16.setEditable(false);
+        e11_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e11_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e11_t16.setText("Equipo n 11");
+        e11_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e11_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e11_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 80, -1, -1));
+
+        e12_t16.setEditable(false);
+        e12_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e12_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e12_t16.setText("Equipo n 12");
+        e12_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e12_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e12_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 110, -1, -1));
+
+        e13_t16.setEditable(false);
+        e13_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e13_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e13_t16.setText("Equipo n 13");
+        e13_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e13_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e13_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 150, -1, -1));
+
+        e14_t16.setEditable(false);
+        e14_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e14_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e14_t16.setText("Equipo n 14");
+        e14_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e14_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e14_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 180, -1, -1));
+
+        e15_t16.setEditable(false);
+        e15_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e15_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e15_t16.setText("Equipo n 15");
+        e15_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e15_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e15_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 220, -1, -1));
+
+        e16_t16.setEditable(false);
+        e16_t16.setBackground(new java.awt.Color(242, 240, 240));
+        e16_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        e16_t16.setText("Equipo n 16");
+        e16_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                e16_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(e16_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1310, 250, -1, -1));
+
+        octavo_e.setEditable(false);
+        octavo_e.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_e.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_e.setText("Ganador 8° e");
+        octavo_e.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_eActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_e, new org.netbeans.lib.awtextra.AbsoluteConstraints(1120, 30, -1, -1));
+
+        octavo_f.setEditable(false);
+        octavo_f.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_f.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_f.setText("Ganador 8° f");
+        octavo_f.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_fActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_f, new org.netbeans.lib.awtextra.AbsoluteConstraints(1120, 100, -1, -1));
+
+        octavo_g.setEditable(false);
+        octavo_g.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_g.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_g.setText("Ganador 8° g");
+        octavo_g.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_gActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_g, new org.netbeans.lib.awtextra.AbsoluteConstraints(1120, 160, -1, -1));
+
+        octavo_h.setEditable(false);
+        octavo_h.setBackground(new java.awt.Color(242, 240, 240));
+        octavo_h.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        octavo_h.setText("Ganador 8° h");
+        octavo_h.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                octavo_hActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(octavo_h, new org.netbeans.lib.awtextra.AbsoluteConstraints(1120, 230, -1, -1));
+
+        semi_c_t16.setEditable(false);
+        semi_c_t16.setBackground(new java.awt.Color(242, 240, 240));
+        semi_c_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        semi_c_t16.setText("Ganador 4° c");
+        semi_c_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                semi_c_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(semi_c_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(940, 60, -1, -1));
+
+        semi_d_t16.setEditable(false);
+        semi_d_t16.setBackground(new java.awt.Color(242, 240, 240));
+        semi_d_t16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        semi_d_t16.setText("Ganador 4° d");
+        semi_d_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                semi_d_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(semi_d_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(940, 190, -1, -1));
+
+        b8g_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8g_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1210, 160, 50, -1));
+
+        b8e_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8e_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1210, 30, 50, -1));
+        torneo16_frame.getContentPane().add(re9_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 10, 30, -1));
+        torneo16_frame.getContentPane().add(re11_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 80, 30, -1));
+        torneo16_frame.getContentPane().add(re12_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 110, 30, -1));
+        torneo16_frame.getContentPane().add(re10_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 40, 30, -1));
+        torneo16_frame.getContentPane().add(re13_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 150, 30, -1));
+        torneo16_frame.getContentPane().add(re14_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 180, 30, -1));
+
+        b8f_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8f_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1210, 100, 50, -1));
+        torneo16_frame.getContentPane().add(re15_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 220, 30, -1));
+        torneo16_frame.getContentPane().add(re16_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1270, 250, 30, -1));
+
+        b8h_t16.setText("=");
+        torneo16_frame.getContentPane().add(b8h_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1210, 230, 50, -1));
+
+        r_8e_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8e_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8e_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1080, 30, 30, -1));
+
+        r_semic_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_semic_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_semic_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 60, 30, -1));
+
+        r_8h_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8h_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8h_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1080, 230, 30, -1));
+
+        b_4c_16.setText("=");
+        torneo16_frame.getContentPane().add(b_4c_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 60, -1, -1));
+
+        b_final_t16.setText("=");
+        torneo16_frame.getContentPane().add(b_final_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 140, 50, -1));
+
+        r_8g_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8g_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8g_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1080, 160, 30, -1));
+
+        r_8f_16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_8f_16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_8f_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1080, 100, 30, -1));
+
+        r_semid_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_semid_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_semid_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 190, 30, -1));
+
+        torneo_lbl1.setFont(new java.awt.Font("Noto Sans CJK JP Bold", 0, 24)); // NOI18N
+        torneo_lbl1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        torneo_lbl1.setText("-_-");
+        torneo16_frame.getContentPane().add(torneo_lbl1, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 0, 770, 40));
+
+        bsemi_b_t16.setText("=");
+        torneo16_frame.getContentPane().add(bsemi_b_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 130, -1, -1));
+
+        b_4d_16.setText("=");
+        torneo16_frame.getContentPane().add(b_4d_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 190, -1, -1));
+
+        r_final1_t17.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_final1_t17ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_final1_t17, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 140, 30, -1));
+
+        r_tyc_1_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                r_tyc_1_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(r_tyc_1_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(640, 240, 30, -1));
+
+        volver_t16.setText("VOLVER");
+        volver_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                volver_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(volver_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(710, 60, 90, 40));
+
+        salir_t16.setText("SALIR");
+        salir_t16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                salir_t16ActionPerformed(evt);
+            }
+        });
+        torneo16_frame.getContentPane().add(salir_t16, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 60, 90, 40));
+
+        jButton5.setText("=");
+        jButton5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton5ActionPerformed(evt);
             }
         });
 
-        volver_f3.setText("Volver");
-        volver_f3.addActionListener(new java.awt.event.ActionListener() {
+        jTextField74.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                volver_f3ActionPerformed(evt);
+                jTextField74ActionPerformed(evt);
             }
         });
 
-        javax.swing.GroupLayout torneoLayout = new javax.swing.GroupLayout(torneo.getContentPane());
-        torneo.getContentPane().setLayout(torneoLayout);
-        torneoLayout.setHorizontalGroup(
-            torneoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(xdxd, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, torneoLayout.createSequentialGroup()
-                .addContainerGap(451, Short.MAX_VALUE)
-                .addComponent(volver_f3, javax.swing.GroupLayout.PREFERRED_SIZE, 82, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(salir_f3, javax.swing.GroupLayout.PREFERRED_SIZE, 82, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap())
-            .addGroup(torneoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(torneoLayout.createSequentialGroup()
-                    .addContainerGap()
-                    .addComponent(torneo_lbl, javax.swing.GroupLayout.DEFAULT_SIZE, 609, Short.MAX_VALUE)
-                    .addContainerGap()))
-        );
-        torneoLayout.setVerticalGroup(
-            torneoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, torneoLayout.createSequentialGroup()
-                .addContainerGap(127, Short.MAX_VALUE)
-                .addComponent(xdxd, javax.swing.GroupLayout.PREFERRED_SIZE, 115, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 18, 18)
-                .addGroup(torneoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(salir_f3)
-                    .addComponent(volver_f3))
-                .addGap(10, 10, 10))
-            .addGroup(torneoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(torneoLayout.createSequentialGroup()
-                    .addGap(10, 10, 10)
-                    .addComponent(torneo_lbl, javax.swing.GroupLayout.PREFERRED_SIZE, 115, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addContainerGap(175, Short.MAX_VALUE)))
-        );
+        jFrame1.getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        e1.setBackground(new java.awt.Color(242, 240, 240));
-        e1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        e1.setText("Equipo n° 1");
-        e1.addActionListener(new java.awt.event.ActionListener() {
+        jLabel1.setText("1°");
+        jFrame1.getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 70, -1, -1));
+        jFrame1.getContentPane().add(n1_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 70, 112, -1));
+        jFrame1.getContentPane().add(n2_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 100, 112, -1));
+        jFrame1.getContentPane().add(n3_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 130, 112, -1));
+        jFrame1.getContentPane().add(n4_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 160, 112, -1));
+        jFrame1.getContentPane().add(n5_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 190, 112, -1));
+        jFrame1.getContentPane().add(n6_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 220, 112, -1));
+        jFrame1.getContentPane().add(n7_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 250, 112, -1));
+        jFrame1.getContentPane().add(n8_16, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 280, 112, -1));
+
+        aceptar_n16.setBackground(new java.awt.Color(51, 51, 255));
+        aceptar_n16.setText("Aceptar");
+        aceptar_n16.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                e1ActionPerformed(evt);
+                aceptar_n16ActionPerformed(evt);
             }
         });
+        jFrame1.getContentPane().add(aceptar_n16, new org.netbeans.lib.awtextra.AbsoluteConstraints(194, 318, 160, -1));
 
-        e2.setBackground(new java.awt.Color(242, 240, 240));
-        e2.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        e2.setText("Equipo n° 2");
-        e2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                e2ActionPerformed(evt);
-            }
-        });
+        lbl_nombres16.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        lbl_nombres16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        lbl_nombres16.setText("Ingresar nombres de los equipos");
+        jFrame1.getContentPane().add(lbl_nombres16, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 0, 355, 40));
 
-        e4.setBackground(new java.awt.Color(242, 240, 240));
-        e4.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        e4.setText("Equipo n° 3");
-        e4.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                e4ActionPerformed(evt);
-            }
-        });
+        jLabel19.setText("2°");
+        jFrame1.getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 100, -1, -1));
 
-        jTextField4.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField4.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField4.setText("Equipo n° 4");
-        jTextField4.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField4ActionPerformed(evt);
-            }
-        });
+        jLabel20.setText("3°");
+        jFrame1.getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 130, -1, -1));
 
-        jTextField5.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField5.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField5.setText("Equipo n° 5");
-        jTextField5.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField5ActionPerformed(evt);
-            }
-        });
+        jLabel21.setText("4°");
+        jFrame1.getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 160, -1, -1));
 
-        jTextField6.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField6.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField6.setText("Equipo n° 6");
-        jTextField6.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField6ActionPerformed(evt);
-            }
-        });
+        jLabel22.setText("5°");
+        jFrame1.getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 190, -1, -1));
 
-        jTextField7.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField7.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField7.setText("Equipo n° 7");
-        jTextField7.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField7ActionPerformed(evt);
-            }
-        });
+        jLabel23.setText("6°");
+        jFrame1.getContentPane().add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 220, -1, -1));
 
-        jTextField8.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField8.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField8.setText("Equipo n° 8");
-        jTextField8.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField8ActionPerformed(evt);
-            }
-        });
+        jLabel24.setText("7°");
+        jFrame1.getContentPane().add(jLabel24, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 250, -1, -1));
 
-        jTextField9.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField9.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField9.setText("Equipo n° 2");
-        jTextField9.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField9ActionPerformed(evt);
-            }
-        });
+        jLabel25.setText("8°");
+        jFrame1.getContentPane().add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 280, -1, -1));
 
-        jTextField10.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField10.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField10.setText("jTextField1");
-        jTextField10.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField10ActionPerformed(evt);
-            }
-        });
+        volver_n16.setText("Volver");
+        jFrame1.getContentPane().add(volver_n16, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 320, 81, -1));
 
-        jTextField11.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField11.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField11.setText("jTextField1");
-        jTextField11.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField11ActionPerformed(evt);
-            }
-        });
+        salir_n16.setText("Salir");
+        jFrame1.getContentPane().add(salir_n16, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 320, 93, -1));
 
-        jTextField12.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField12.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField12.setText("Equipo n° 2");
-        jTextField12.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField12ActionPerformed(evt);
-            }
-        });
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel2.setText("(El orden de los equipos será aleatorio al crearse el torneo)");
+        jFrame1.getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(12, 41, 355, -1));
 
-        jTextField13.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField13.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField13.setText("Equipo n° 2");
-        jTextField13.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField13ActionPerformed(evt);
-            }
-        });
+        jLabel3.setText("1°");
+        jFrame1.getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 70, -1, -1));
+        jFrame1.getContentPane().add(n1_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 70, 112, -1));
+        jFrame1.getContentPane().add(n2_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 100, 112, -1));
+        jFrame1.getContentPane().add(n3_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 130, 112, -1));
+        jFrame1.getContentPane().add(n4_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 160, 112, -1));
+        jFrame1.getContentPane().add(n5_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 190, 112, -1));
+        jFrame1.getContentPane().add(n6_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 220, 112, -1));
+        jFrame1.getContentPane().add(n7_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 250, 112, -1));
+        jFrame1.getContentPane().add(n8_17, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 280, 112, -1));
 
-        jTextField14.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField14.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField14.setText("Equipo n° 2");
-        jTextField14.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField14ActionPerformed(evt);
-            }
-        });
+        jLabel34.setText("2°");
+        jFrame1.getContentPane().add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 100, -1, -1));
 
-        jTextField15.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField15.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField15.setText("Equipo n° 2");
-        jTextField15.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField15ActionPerformed(evt);
-            }
-        });
+        jLabel35.setText("3°");
+        jFrame1.getContentPane().add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 130, -1, -1));
 
-        jTextField16.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField16.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField16.setText("Equipo n° 2");
-        jTextField16.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField16ActionPerformed(evt);
-            }
-        });
+        jLabel36.setText("4°");
+        jFrame1.getContentPane().add(jLabel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 160, -1, -1));
 
-        jTextField17.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField17.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField17.setText("Granador 8 b");
-        jTextField17.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField17ActionPerformed(evt);
-            }
-        });
+        jLabel37.setText("5°");
+        jFrame1.getContentPane().add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 190, -1, -1));
 
-        jTextField18.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField18.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField18.setText("Granador 8 c");
-        jTextField18.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField18ActionPerformed(evt);
-            }
-        });
+        jLabel38.setText("6°");
+        jFrame1.getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 220, -1, -1));
 
-        jTextField19.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField19.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField19.setText("Granador 8 a");
-        jTextField19.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField19ActionPerformed(evt);
-            }
-        });
+        jLabel39.setText("7°");
+        jFrame1.getContentPane().add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 250, -1, -1));
 
-        jTextField20.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField20.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField20.setText("Granador 8 d");
-        jTextField20.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField20ActionPerformed(evt);
-            }
-        });
+        jLabel40.setText("8°");
+        jFrame1.getContentPane().add(jLabel40, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 280, -1, -1));
 
-        jTextField21.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField21.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField21.setText("Granador 8 f");
-        jTextField21.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField21ActionPerformed(evt);
-            }
-        });
+        jLabel8.setText("Nombre del primer equipo:");
 
-        jTextField22.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField22.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField22.setText("Granador 8 g");
-        jTextField22.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField22ActionPerformed(evt);
-            }
-        });
+        jButton9.setText("Aceptar");
 
-        jTextField23.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField23.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField23.setText("Granador 8 e");
-        jTextField23.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField23ActionPerformed(evt);
-            }
-        });
+        jScrollPane1.setViewportView(jTextPane1);
 
-        jTextField25.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField25.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField25.setText("Granador 8 h");
-        jTextField25.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField25ActionPerformed(evt);
-            }
-        });
-
-        jTextField26.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField26.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField26.setText("Ganador 4 d");
-        jTextField26.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField26ActionPerformed(evt);
-            }
-        });
-
-        jTextField27.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField27.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField27.setText("Ganador 4 c");
-        jTextField27.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField27ActionPerformed(evt);
-            }
-        });
-
-        jTextField28.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField28.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField28.setText("Ganador 4 a");
-        jTextField28.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField28ActionPerformed(evt);
-            }
-        });
-
-        jTextField29.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField29.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField29.setText("Equipo n° 2");
-        jTextField29.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField29ActionPerformed(evt);
-            }
-        });
-
-        jTextField30.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField30.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField30.setText("Equipo n° 2");
-        jTextField30.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField30ActionPerformed(evt);
-            }
-        });
-
-        jLabel1.setText("FINAL");
-
-        jTextField31.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField31.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField31.setText("Equipo n° 2");
-        jTextField31.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField31ActionPerformed(evt);
-            }
-        });
-
-        jTextField32.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField32.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField32.setText("Equipo n° 2");
-        jTextField32.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField32ActionPerformed(evt);
-            }
-        });
-
-        jLabel2.setText("3er y 4to");
-
-        jTextField33.setBackground(new java.awt.Color(242, 240, 240));
-        jTextField33.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField33.setText("Ganador 4 b");
-        jTextField33.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField33ActionPerformed(evt);
-            }
-        });
-
-        jButton1.setText("=");
-
-        jButton2.setText("=");
-
-        jButton3.setText("=");
-
-        jButton4.setText("=");
-
-        jTextField38.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField38ActionPerformed(evt);
-            }
-        });
-
-        jTextField39.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField39ActionPerformed(evt);
-            }
-        });
-
-        javax.swing.GroupLayout jFrame1Layout = new javax.swing.GroupLayout(jFrame1.getContentPane());
-        jFrame1.getContentPane().setLayout(jFrame1Layout);
-        jFrame1Layout.setHorizontalGroup(
-            jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jFrame1Layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jFrame1Layout.createSequentialGroup()
-                        .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 444, Short.MAX_VALUE)
-                        .addComponent(jTextField31, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(62, 62, 62)
-                        .addComponent(jTextField32, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(82, 82, 82))
-                    .addGroup(jFrame1Layout.createSequentialGroup()
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                .addComponent(e2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(42, 42, 42)
-                                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addGap(6, 6, 6))
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                                        .addComponent(e4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                        .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                                        .addComponent(e1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                        .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                                        .addGap(92, 92, 92)
-                                                        .addComponent(jTextField24, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)))
-                                        .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                .addComponent(jTextField34, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addGap(92, 92, 92)
-                                                .addComponent(jTextField35, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                .addComponent(jTextField37, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                .addComponent(jTextField36, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGap(248, 248, 248)
-                                        .addComponent(jTextField33, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addGap(259, 259, 259)
-                                                .addComponent(jLabel2))
-                                            .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                                        .addGap(187, 187, 187)
-                                                        .addComponent(jTextField29, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                                        .addGap(56, 56, 56)
-                                                        .addComponent(jTextField30, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                                                .addComponent(jTextField38, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                                .addGap(6, 6, 6)
-                                                                .addComponent(jTextField39, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                                .addGap(220, 220, 220)
-                                                                .addComponent(jLabel1))
-                                                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                                                .addGap(104, 104, 104)
-                                                                .addComponent(jTextField28, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))))))))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
-                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField27, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField26, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jTextField21, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jTextField23, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                    .addGroup(jFrame1Layout.createSequentialGroup()
-                        .addGap(31, 31, 31)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jTextField25, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jTextField22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 24, Short.MAX_VALUE)
-                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap())
-        );
-        jFrame1Layout.setVerticalGroup(
-            jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jFrame1Layout.createSequentialGroup()
-                .addGap(30, 30, 30)
-                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addGroup(jFrame1Layout.createSequentialGroup()
-                        .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(e1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(e2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField24, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                            .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jFrame1Layout.createSequentialGroup()
-                                .addGap(15, 15, 15)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jButton1))))
-                        .addGap(18, 18, 18)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                .addComponent(e4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                .addComponent(jLabel1)
-                                .addComponent(jTextField21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jTextField29, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addGap(18, 18, 18)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField34, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField35, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addGap(18, 18, 18)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField36, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField37, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                .addGap(13, 13, 13))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                                .addComponent(jTextField26, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(8, 8, 8)
-                                .addComponent(jTextField25, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(24, 24, 24))))
-                    .addGroup(jFrame1Layout.createSequentialGroup()
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jFrame1Layout.createSequentialGroup()
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGap(50, 50, 50)
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                            .addComponent(jTextField27, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addComponent(jTextField28, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGap(36, 36, 36)
-                                        .addComponent(jTextField30, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                            .addComponent(jButton2))
-                                        .addGap(16, 16, 16)))
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jTextField32, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addGroup(jFrame1Layout.createSequentialGroup()
-                                        .addGap(30, 30, 30)
-                                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                            .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                                .addComponent(jButton3)
-                                                .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                            .addComponent(jTextField22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                        .addGap(0, 0, Short.MAX_VALUE))))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jFrame1Layout.createSequentialGroup()
-                                .addGap(0, 0, Short.MAX_VALUE)
-                                .addComponent(jTextField39, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jTextField38, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(93, 93, 93)
-                                .addComponent(jLabel2)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(jTextField31, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jTextField33, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                        .addGap(9, 9, 9)
-                        .addGroup(jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jButton4)
-                            .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(31, 31, 31)))
-                .addContainerGap(20, Short.MAX_VALUE))
-        );
-
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Organizador de Torneos");
         setAlwaysOnTop(true);
         setBackground(new java.awt.Color(88, 7, 14));
@@ -1024,172 +1154,274 @@ public class Principal extends javax.swing.JFrame {
             
     }//GEN-LAST:event_grups_rbttnActionPerformed
 
-    private void salir_f3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_salir_f3ActionPerformed
-
-        torneo.dispose();
-
-    }//GEN-LAST:event_salir_f3ActionPerformed
-
     private void comenzar_btnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_comenzar_btnActionPerformed
 
+      
+    
+        
+        if(indiv_rbttn.isSelected() && nombre_txt.getText() !=null && deporte_txt.getText() != null)  {
+        
+          
+           
        nuevo_frame.dispose();
-       torneo.setVisible(true);
-       torneo.setLocationRelativeTo(null);
+       lbl_nombres16.setText("Ingresa los nombres de los jugadores");
+       torneo16_frame.setVisible(true);
+       torneo16_frame.setLocationRelativeTo(null);
+       torneo_lbl1.setText("Torneo "  + " individual de " + deporte_txt.getText() +  ": “" + nombre_txt.getText() + "”");
+           
+       } else if (grups_rbttn.isSelected() && nombre_txt.getText() !=null && deporte_txt.getText() != null) {
+       nuevo_frame.dispose();
+       torneo16_frame.setVisible(true);
+       torneo16_frame.setLocationRelativeTo(null);
+           torneo_lbl1.setText("Torneo "  + " en equipos de " + deporte_txt.getText() +  ": “" + nombre_txt.getText() + "”");
+       } else {
+           
+       }
        
-       if (indiv_rbttn.isSelected() == true)
-       {torneo_lbl.setText("Torneo "  + " individual de " + deporte_txt.getText() +  ": “" + nombre_txt.getText() + "”");}
-
-        if (grups_rbttn.isSelected() == true)
-       {torneo_lbl.setText("Torneo "  + " en equipos de " + deporte_txt.getText() +  ": “" + nombre_txt.getText() + "”");}
+     
+       
        
     }//GEN-LAST:event_comenzar_btnActionPerformed
 
-    private void volver_f3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_volver_f3ActionPerformed
-
-        torneo.dispose();
-        this.setVisible(true);
-        
-    }//GEN-LAST:event_volver_f3ActionPerformed
-
     private void deporte_txtActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_deporte_txtActionPerformed
+
+       
+
         // TODO add your handling code here:
     }//GEN-LAST:event_deporte_txtActionPerformed
 
-    private void jTextField32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField32ActionPerformed
+    private void tyc_1_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tyc_1_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField32ActionPerformed
+    }//GEN-LAST:event_tyc_1_t16ActionPerformed
 
-    private void jTextField31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField31ActionPerformed
+    private void tyc_2_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tyc_2_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField31ActionPerformed
+    }//GEN-LAST:event_tyc_2_t16ActionPerformed
 
-    private void jTextField30ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField30ActionPerformed
+    private void final2_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_final2_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField30ActionPerformed
+    }//GEN-LAST:event_final2_t16ActionPerformed
 
-    private void jTextField29ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField29ActionPerformed
+    private void final1_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_final1_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField29ActionPerformed
+    }//GEN-LAST:event_final1_t16ActionPerformed
 
-    private void jTextField28ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField28ActionPerformed
+    private void semi_a_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_semi_a_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField28ActionPerformed
+    }//GEN-LAST:event_semi_a_t16ActionPerformed
 
-    private void jTextField27ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField27ActionPerformed
+    private void octavo_dActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_dActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField27ActionPerformed
+    }//GEN-LAST:event_octavo_dActionPerformed
 
-    private void jTextField26ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField26ActionPerformed
+    private void octavo_cActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_cActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField26ActionPerformed
+    }//GEN-LAST:event_octavo_cActionPerformed
 
-    private void jTextField25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField25ActionPerformed
+    private void octavo_bActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_bActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField25ActionPerformed
+    }//GEN-LAST:event_octavo_bActionPerformed
 
-    private void jTextField23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField23ActionPerformed
+    private void octavo_aActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_aActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField23ActionPerformed
+    }//GEN-LAST:event_octavo_aActionPerformed
 
-    private void jTextField22ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField22ActionPerformed
+    private void e8_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e8_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField22ActionPerformed
+    }//GEN-LAST:event_e8_t16ActionPerformed
 
-    private void jTextField21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField21ActionPerformed
+    private void e7_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e7_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField21ActionPerformed
+    }//GEN-LAST:event_e7_t16ActionPerformed
 
-    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField20ActionPerformed
+    private void e6_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e6_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField20ActionPerformed
+    }//GEN-LAST:event_e6_t16ActionPerformed
 
-    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField19ActionPerformed
+    private void e5_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e5_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField19ActionPerformed
+    }//GEN-LAST:event_e5_t16ActionPerformed
 
-    private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField18ActionPerformed
+    private void e4_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e4_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField18ActionPerformed
+    }//GEN-LAST:event_e4_t16ActionPerformed
 
-    private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField17ActionPerformed
+    private void e3_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e3_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField17ActionPerformed
+    }//GEN-LAST:event_e3_t16ActionPerformed
 
-    private void jTextField16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField16ActionPerformed
+    private void e2_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e2_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField16ActionPerformed
+    }//GEN-LAST:event_e2_t16ActionPerformed
 
-    private void jTextField15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField15ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField15ActionPerformed
+    private void e1_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e1_t16ActionPerformed
 
-    private void jTextField14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField14ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField14ActionPerformed
+       e1_t16.setEditable(false);
 
-    private void jTextField13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField13ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField13ActionPerformed
+    }//GEN-LAST:event_e1_t16ActionPerformed
 
-    private void jTextField12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField12ActionPerformed
+    private void semi_b_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_semi_b_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField12ActionPerformed
+    }//GEN-LAST:event_semi_b_t16ActionPerformed
 
-    private void jTextField11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField11ActionPerformed
+    private void r_8a_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8a_16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField11ActionPerformed
+    }//GEN-LAST:event_r_8a_16ActionPerformed
 
-    private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField10ActionPerformed
+    private void r_8b_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8b_16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField10ActionPerformed
+    }//GEN-LAST:event_r_8b_16ActionPerformed
 
-    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
+    private void r_8d_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8d_16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField9ActionPerformed
+    }//GEN-LAST:event_r_8d_16ActionPerformed
 
-    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField8ActionPerformed
+    private void r_8c_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8c_16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField8ActionPerformed
+    }//GEN-LAST:event_r_8c_16ActionPerformed
 
-    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField7ActionPerformed
+    private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField7ActionPerformed
+    }//GEN-LAST:event_jButton5ActionPerformed
 
-    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
+    private void r_semib_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_semib_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField6ActionPerformed
+    }//GEN-LAST:event_r_semib_t16ActionPerformed
 
-    private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
+    private void r_semia_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_semia_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField5ActionPerformed
+    }//GEN-LAST:event_r_semia_t16ActionPerformed
 
-    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
+    private void r_tyc_2_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_tyc_2_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField4ActionPerformed
+    }//GEN-LAST:event_r_tyc_2_t16ActionPerformed
 
-    private void e4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e4ActionPerformed
+    private void r_final2_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_final2_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_e4ActionPerformed
+    }//GEN-LAST:event_r_final2_t16ActionPerformed
 
-    private void e2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e2ActionPerformed
+    private void e9_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e9_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_e2ActionPerformed
+    }//GEN-LAST:event_e9_t16ActionPerformed
 
-    private void e1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e1ActionPerformed
+    private void e10_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e10_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_e1ActionPerformed
+    }//GEN-LAST:event_e10_t16ActionPerformed
 
-    private void jTextField33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField33ActionPerformed
+    private void e11_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e11_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField33ActionPerformed
+    }//GEN-LAST:event_e11_t16ActionPerformed
 
-    private void jTextField38ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField38ActionPerformed
+    private void e12_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e12_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField38ActionPerformed
+    }//GEN-LAST:event_e12_t16ActionPerformed
 
-    private void jTextField39ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField39ActionPerformed
+    private void e13_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e13_t16ActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField39ActionPerformed
+    }//GEN-LAST:event_e13_t16ActionPerformed
+
+    private void e14_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e14_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_e14_t16ActionPerformed
+
+    private void e15_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e15_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_e15_t16ActionPerformed
+
+    private void e16_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_e16_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_e16_t16ActionPerformed
+
+    private void octavo_eActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_eActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_octavo_eActionPerformed
+
+    private void octavo_fActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_fActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_octavo_fActionPerformed
+
+    private void octavo_gActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_gActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_octavo_gActionPerformed
+
+    private void octavo_hActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_octavo_hActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_octavo_hActionPerformed
+
+    private void semi_c_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_semi_c_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_semi_c_t16ActionPerformed
+
+    private void semi_d_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_semi_d_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_semi_d_t16ActionPerformed
+
+    private void r_8e_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8e_16ActionPerformed
+        // TODO add TU MAMA your handling code here:
+    }//GEN-LAST:event_r_8e_16ActionPerformed
+
+    private void r_semic_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_semic_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_semic_t16ActionPerformed
+
+    
+    private void r_8h_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8h_16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_8h_16ActionPerformed
+
+    private void r_8g_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8g_16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_8g_16ActionPerformed
+
+    private void r_8f_16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_8f_16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_8f_16ActionPerformed
+
+    private void jTextField74ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField74ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField74ActionPerformed
+
+    private void r_semid_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_semid_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_semid_t16ActionPerformed
+
+    private void r_final1_t17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_final1_t17ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_final1_t17ActionPerformed
+
+    private void r_tyc_1_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_r_tyc_1_t16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_r_tyc_1_t16ActionPerformed
+
+    private void salir_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_salir_t16ActionPerformed
+        
+        torneo16_frame.dispose();
+
+        // TODO add your handling code here:
+    }//GEN-LAST:event_salir_t16ActionPerformed
+
+    private void volver_t16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_volver_t16ActionPerformed
+
+        torneo16_frame.setVisible(false);
+        this.setVisible(true);
+
+
+    }//GEN-LAST:event_volver_t16ActionPerformed
+
+    private void aceptar_n16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_aceptar_n16ActionPerformed
+
+                      
+
+
+
+
+
+
+
+
+
+    }//GEN-LAST:event_aceptar_n16ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -1227,77 +1459,154 @@ public class Principal extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton aceptar_n16;
+    private javax.swing.JButton b8a_t16;
+    private javax.swing.JButton b8b_t16;
+    private javax.swing.JButton b8c_t16;
+    private javax.swing.JButton b8d_t16;
+    private javax.swing.JButton b8e_t16;
+    private javax.swing.JButton b8f_t16;
+    private javax.swing.JButton b8g_t16;
+    private javax.swing.JButton b8h_t16;
+    private javax.swing.JButton b_4a_16;
+    private javax.swing.JButton b_4b_16;
+    private javax.swing.JButton b_4c_16;
+    private javax.swing.JButton b_4d_16;
+    private javax.swing.JButton b_final_t16;
+    private javax.swing.JButton b_tyc_t16;
+    private javax.swing.JButton bsemi_a_t16;
+    private javax.swing.JButton bsemi_b_t16;
     private javax.swing.JButton comenzar_btn;
     private javax.swing.JTextField deporte_txt;
-    private javax.swing.JTextField e1;
-    private javax.swing.JTextField e2;
-    private javax.swing.JTextField e4;
+    private javax.swing.JTextField e10_t16;
+    private javax.swing.JTextField e11_t16;
+    private javax.swing.JTextField e12_t16;
+    private javax.swing.JTextField e13_t16;
+    private javax.swing.JTextField e14_t16;
+    private javax.swing.JTextField e15_t16;
+    private javax.swing.JTextField e16_t16;
+    private javax.swing.JTextField e1_t16;
+    private javax.swing.JTextField e2_t16;
+    private javax.swing.JTextField e3_t16;
+    private javax.swing.JTextField e4_t16;
+    private javax.swing.JTextField e5_t16;
+    private javax.swing.JTextField e6_t16;
+    private javax.swing.JTextField e7_t16;
+    private javax.swing.JTextField e8_t16;
+    private javax.swing.JTextField e9_t16;
     private javax.swing.ButtonGroup filtro;
+    private javax.swing.JTextField final1_t16;
+    private javax.swing.JTextField final2_t16;
+    private javax.swing.JLabel final_lbl_t16;
     private javax.swing.JRadioButton grups_rbttn;
     private javax.swing.JRadioButton indiv_rbttn;
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
-    private javax.swing.JButton jButton3;
-    private javax.swing.JButton jButton4;
+    private javax.swing.JButton jButton5;
+    private javax.swing.JButton jButton9;
     private javax.swing.JFrame jFrame1;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
+    private javax.swing.JLabel jLabel23;
+    private javax.swing.JLabel jLabel24;
+    private javax.swing.JLabel jLabel25;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel34;
+    private javax.swing.JLabel jLabel35;
+    private javax.swing.JLabel jLabel36;
+    private javax.swing.JLabel jLabel37;
+    private javax.swing.JLabel jLabel38;
+    private javax.swing.JLabel jLabel39;
+    private javax.swing.JLabel jLabel40;
+    private javax.swing.JLabel jLabel8;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextField jTextField10;
-    private javax.swing.JTextField jTextField11;
-    private javax.swing.JTextField jTextField12;
-    private javax.swing.JTextField jTextField13;
-    private javax.swing.JTextField jTextField14;
-    private javax.swing.JTextField jTextField15;
-    private javax.swing.JTextField jTextField16;
-    private javax.swing.JTextField jTextField17;
-    private javax.swing.JTextField jTextField18;
-    private javax.swing.JTextField jTextField19;
-    private javax.swing.JTextField jTextField2;
-    private javax.swing.JTextField jTextField20;
-    private javax.swing.JTextField jTextField21;
-    private javax.swing.JTextField jTextField22;
-    private javax.swing.JTextField jTextField23;
-    private javax.swing.JTextField jTextField24;
-    private javax.swing.JTextField jTextField25;
-    private javax.swing.JTextField jTextField26;
-    private javax.swing.JTextField jTextField27;
-    private javax.swing.JTextField jTextField28;
-    private javax.swing.JTextField jTextField29;
-    private javax.swing.JTextField jTextField3;
-    private javax.swing.JTextField jTextField30;
-    private javax.swing.JTextField jTextField31;
-    private javax.swing.JTextField jTextField32;
-    private javax.swing.JTextField jTextField33;
-    private javax.swing.JTextField jTextField34;
-    private javax.swing.JTextField jTextField35;
-    private javax.swing.JTextField jTextField36;
-    private javax.swing.JTextField jTextField37;
-    private javax.swing.JTextField jTextField38;
-    private javax.swing.JTextField jTextField39;
-    private javax.swing.JTextField jTextField4;
-    private javax.swing.JTextField jTextField5;
-    private javax.swing.JTextField jTextField6;
-    private javax.swing.JTextField jTextField7;
+    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JTextField jTextField74;
     private javax.swing.JTextField jTextField8;
-    private javax.swing.JTextField jTextField9;
+    private javax.swing.JTextPane jTextPane1;
     private javax.swing.JLabel lbl1_f2;
     private javax.swing.JLabel lbl2_f2;
     private javax.swing.JLabel lbl3_f2;
     private javax.swing.JLabel lbl4_f3;
+    private javax.swing.JLabel lbl_nombres16;
+    private javax.swing.JTextField n1_16;
+    private javax.swing.JTextField n1_17;
+    private javax.swing.JTextField n2_16;
+    private javax.swing.JTextField n2_17;
+    private javax.swing.JTextField n3_16;
+    private javax.swing.JTextField n3_17;
+    private javax.swing.JTextField n4_16;
+    private javax.swing.JTextField n4_17;
+    private javax.swing.JTextField n5_16;
+    private javax.swing.JTextField n5_17;
+    private javax.swing.JTextField n6_16;
+    private javax.swing.JTextField n6_17;
+    private javax.swing.JTextField n7_16;
+    private javax.swing.JTextField n7_17;
+    private javax.swing.JTextField n8_16;
+    private javax.swing.JTextField n8_17;
     private javax.swing.JTextField nombre_txt;
     private javax.swing.JButton nuevo_btn;
     private javax.swing.JFrame nuevo_frame;
+    private javax.swing.JTextField octavo_a;
+    private javax.swing.JTextField octavo_b;
+    private javax.swing.JTextField octavo_c;
+    private javax.swing.JTextField octavo_d;
+    private javax.swing.JTextField octavo_e;
+    private javax.swing.JTextField octavo_f;
+    private javax.swing.JTextField octavo_g;
+    private javax.swing.JTextField octavo_h;
     private javax.swing.JComboBox<String> qant_box;
+    private javax.swing.JTextField r_8a_16;
+    private javax.swing.JTextField r_8b_16;
+    private javax.swing.JTextField r_8c_16;
+    private javax.swing.JTextField r_8d_16;
+    private javax.swing.JTextField r_8e_16;
+    private javax.swing.JTextField r_8f_16;
+    private javax.swing.JTextField r_8g_16;
+    private javax.swing.JTextField r_8h_16;
+    private javax.swing.JTextField r_final1_t17;
+    private javax.swing.JTextField r_final2_t16;
+    private javax.swing.JTextField r_semia_t16;
+    private javax.swing.JTextField r_semib_t16;
+    private javax.swing.JTextField r_semic_t16;
+    private javax.swing.JTextField r_semid_t16;
+    private javax.swing.JTextField r_tyc_1_t16;
+    private javax.swing.JTextField r_tyc_2_t16;
+    private javax.swing.JTextField re10_t16;
+    private javax.swing.JTextField re11_t16;
+    private javax.swing.JTextField re12_t16;
+    private javax.swing.JTextField re13_t16;
+    private javax.swing.JTextField re14_t16;
+    private javax.swing.JTextField re15_t16;
+    private javax.swing.JTextField re16_t16;
+    private javax.swing.JTextField re1_t16;
+    private javax.swing.JTextField re2_t16;
+    private javax.swing.JTextField re3_t16;
+    private javax.swing.JTextField re4_t16;
+    private javax.swing.JTextField re5_t16;
+    private javax.swing.JTextField re6_t16;
+    private javax.swing.JTextField re7_t16;
+    private javax.swing.JTextField re8_t16;
+    private javax.swing.JTextField re9_t16;
     private javax.swing.JButton salir_btn;
     private javax.swing.JButton salir_btn_f2;
-    private javax.swing.JButton salir_f3;
+    private javax.swing.JButton salir_n16;
+    private javax.swing.JButton salir_t16;
+    private javax.swing.JTextField semi_a_t16;
+    private javax.swing.JTextField semi_b_t16;
+    private javax.swing.JTextField semi_c_t16;
+    private javax.swing.JTextField semi_d_t16;
     private javax.swing.JLabel titulo_lbl;
-    private javax.swing.JFrame torneo;
-    private javax.swing.JLabel torneo_lbl;
+    private javax.swing.JFrame torneo16_frame;
+    private javax.swing.JLabel torneo_lbl1;
+    private javax.swing.JTextField tyc_1_t16;
+    private javax.swing.JTextField tyc_2_t16;
+    private javax.swing.JLabel tyc_lbl_t16;
     private javax.swing.JButton volver_btn_f2;
-    private javax.swing.JButton volver_f3;
-    private javax.swing.JLabel xdxd;
+    private javax.swing.JButton volver_n16;
+    private javax.swing.JButton volver_t16;
     // End of variables declaration//GEN-END:variables
 }
